@@ -1,6 +1,6 @@
 package amazon;
 
-public class Java32_BinarySearchTreePractice {
+public class BinarySearchTreePractice {
     public static void main(String[] args) {
         BST tree = new BST();
         tree.root_bst = new Node_BST(10);
